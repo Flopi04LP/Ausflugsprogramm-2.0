@@ -1,0 +1,148 @@
+{
+    "items": [
+    {
+        "name": "Kegeln",
+        "weather": "all",
+        "time": "all",
+        "open": "nein",
+        "kids": "ja",
+        "holiday": "nein"
+    },    
+    {
+        "name": "Kegeln am Wochenende",
+        "weather": "all",
+        "time": "all",
+        "open": "ja",
+        "kids": "ja",
+        "holiday": "nein"
+    },
+    {
+        "name": "Freibad",
+        "weather": "gut",
+        "time": "tag",
+        "open": "nein",
+        "kids": "all",
+        "holiday": "all"
+    },
+    {
+        "name": "Hallenbad",
+        "weather": "all",
+        "time": "all",
+        "open": "nein",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Wandern",
+        "weather": "gut",
+        "time": "tag",
+        "open": "all",
+        "kids": "all",
+        "holiday": "all"
+    },
+    {
+        "name": "Musikkurs",
+        "weather": "all",
+        "time": "nacht",
+        "open": "ja",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Brotbackkurs Tag",
+        "weather": "schlecht",
+        "time": "tag",
+        "open": "ja",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Brotbackkurs Abend",
+        "weather": "schlecht",
+        "time": "nacht",
+        "open": "ja",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Schieferbergwerk",
+        "weather": "all",
+        "time": "tag",
+        "open": "all",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Schieferbergwerk Abendführung",
+        "weather": "all",
+        "time": "nacht",
+        "open": "all",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Go-Kurse am Wochenende",
+        "weather": "schlecht",
+        "time": "tag",
+        "open": "ja",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Go-Kurse unter der Woche",
+        "weather": "schlecht",
+        "time": "nacht",
+        "open": "nein",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Biliard",
+        "weather": "all",
+        "time": "nacht",
+        "open": "nein",
+        "kids": "nein",
+        "holiday": "all"
+    },
+    {
+        "name": "Biliard am Wochenende",
+        "weather": "all",
+        "time": "nacht",
+        "open": "ja",
+        "kids": "nein",
+        "holiday": "all"
+    },
+    {
+        "name": "Rennautofahren",
+        "weather": "all",
+        "time": "tag",
+        "open": "ja",
+        "kids": "nein",
+        "holiday": "ja"
+    },
+    {
+        "name": "Korbflechten",
+        "weather": "schlecht",
+        "time": "all",
+        "open": "nein",
+        "kids": "all",
+        "holiday": "ja"
+    },
+    {
+        "name": "Besuch des Wasserfalls",
+        "weather": "all",
+        "time": "tag",
+        "open": "all",
+        "kids": "all",
+        "holiday": "all"
+    },
+    {
+        "name": "Zoobesuche",
+        "weather": "all",
+        "time": "all",
+        "open": "all",
+        "kids": "all",
+        "holiday": "all"
+    }
+    ]
+}
